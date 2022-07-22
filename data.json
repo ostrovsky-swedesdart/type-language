@@ -1,0 +1,50 @@
+{
+"type/javascript": {
+"ownerFirst": "Brendan Eich",
+"company": "Netspace",
+"space": "SpiderMonkey",
+"result": "C, C++"
+},
+"type/python": {
+"owner": "Гвидо ван Россум",
+"os": "кроссплатформенность",
+"version": "3.10.5",
+"org": "python.org"
+},
+"type/c++": {
+"owner": "Бьёрн Страуструп",
+"dialects": "ISO/IEC 14882 C++",
+"version": "C++20",
+"org": "isocpp.org"
+},
+"type/c": {
+"owner": "Деннис Ричи",
+"dialects": "K&R C (1978); ANSI C (1989); C99 (1999); C11 (2011)",
+"result": "B, BCPL",
+"date": "1972",
+"os": "Windows, Unix"
+},
+"type/swift": {
+"os": "macOS, iOS, iPadOS, tvOS",
+"owner": "Крис Латтнер, Дуг Грегор, Джон Маккол, Тед Кременек, Джо Грофф, Apple",
+"class": "мультипарадигмальный",
+"lic": "Apache 2.0 with",
+"date": "2014"
+},
+"type/c#": {
+"owner": "Андерс Хейлсберг",
+"org": "docs.microsoft.com/ru-ru",
+"date": "2001"
+},
+"type/php": {
+"org": "php.net",
+"lic": "PHP License",
+"owner": "Расмус Лердорф",
+"date": "8 июня, 1995"
+},
+"type/java": {
+"owner": "Джеймс Гослинг",
+"class": "мультипарадигмальный",
+"date": "1995"
+}
+}
